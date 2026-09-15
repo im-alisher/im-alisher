@@ -30,15 +30,19 @@
 
 <p align="center">
   <samp>
-    🧠 I love solving problems, architecting clean APIs, and turning ideas into reality.
+    🧠 <b>AI Engineer & Full Stack Developer</b> — I design intelligent systems that turn raw data into real-world impact.
     <br/>
-    🚀 Currently exploring the vast world of <b>cloud-native</b> development & <b>microservices</b>.
+    🤖 Specializing in <b>RAG pipelines</b>, <b>LLM-powered applications</b>, and <b>production-grade microservices</b>.
     <br/>
-    🌱 Always learning — because every day is a chance to write better code.
+    🔍 Translating complex AI concepts into clean, scalable, and maintainable code.
     <br/>
-    💬 Ask me about <b>JavaScript</b>, <b>TypeScript</b>, <b>Python</b>, <b>Docker</b> & <b>Kubernetes</b>.
+    🚀 Building everything from <b>AI-driven backends</b> to <b>computer vision</b> solutions that ship.
     <br/>
-    ⚡ <b>Fun fact:</b> My code runs best after 2 cups of ☕ and one good playlist 🎧.
+    🌱 Currently deep-diving into <b>agentic AI</b> & <b>cloud-native architectures</b>.
+    <br/>
+    💬 Ask me about <b>LLMs</b>, <b>RAG</b>, <b>Python</b>, <b>TypeScript</b>, <b>Docker</b> & <b>Kubernetes</b>.
+    <br/>
+    ⚡ <b>Fun fact:</b> My models train best on 2 cups of ☕ and one good playlist 🎧.
   </samp>
 </p>
 
