@@ -1,33 +1,5 @@
 <div align="center">
 
-<br/>
-
-# 👋 Hello World!
-
-### I'm **Ali Sher** — a passionate **Full Stack Developer** crafting digital experiences from frontend pixels to backend power!
-
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;JavaScript+%E2%9C%A6+TypeScript+%E2%9C%A6+Python;Docker+%E2%9C%A6+Kubernetes+%E2%9C%A6+Cloud;Turning+%E2%98%95+Into+Code+Since+Day+One" alt="Typing Animation" />
-</p>
-
-<br/>
-
-<p align="center">
-  <b>🔥 Contribution Heatmap — Last Year</b>
-  <br/>
-  <img src="https://ghchart.rshah.org/218bff/im-alisher" alt="GitHub Contribution Heatmap" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=im-alisher&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF" alt="GitHub Streak" />
-</p>
-
----
-
-<br/>
-
-<div align="center">
-
 ## ✨ About Me
 
 </div>
