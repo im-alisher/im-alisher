@@ -17,9 +17,9 @@
 <p align="center">
   <b>🔥 Contribution Heatmap — Last Year</b>
   <br/>
-  <img src="https://ghchart.rshah.org/218bff/YOUR_USERNAME" alt="GitHub Contribution Heatmap" />
+  <img src="https://ghchart.rshah.org/218bff/im-alisher" alt="GitHub Contribution Heatmap" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=im-alisher&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF" alt="GitHub Streak" />
 </p>
 
 ---
@@ -182,7 +182,7 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/im-alisher" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/ali-sher-aamir/" target="_blank">
