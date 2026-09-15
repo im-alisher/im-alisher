@@ -99,6 +99,67 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 
+<br/>
+
+### 💻 Programming
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+
+<br/>
+
+### 🧩 Backend & APIs
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+
+<br/>
+
+### 🗄️ Databases
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+<br/>
+
+### ⚡ Systems & Data
+
+<img src="https://img.shields.io/badge/Data%20Processing-6A5ACD?style=for-the-badge&logo=processor&logoColor=white" alt="Data Processing" />
+<img src="https://img.shields.io/badge/Scalable%20Systems-4B0082?style=for-the-badge&logo=serverless&logoColor=white" alt="Scalable Systems" />
+<img src="https://img.shields.io/badge/Background%20Jobs-FD7E14?style=for-the-badge&logo=bullseye&logoColor=white" alt="Background Jobs" />
+
+<br/>
+
+### 🤖 Data & AI
+
+<img src="https://img.shields.io/badge/RAG%20(Retrieval%20Augmented%20Generation)-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
+<img src="https://img.shields.io/badge/LLMs%20(Large%20Language%20Models)-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+<img src="https://img.shields.io/badge/Data%20Pipelines-46C7C7?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Pipelines" />
+
+<br/>
+
+### 👁️ Computer Vision
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
+<img src="https://img.shields.io/badge/Object%20Tracking-FF3131?style=for-the-badge&logo=opencv&logoColor=white" alt="Object Tracking" />
+
+<br/>
+
+### 🧰 Tools & Platforms
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Stripe%20API-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe API" />
+<img src="https://img.shields.io/badge/Airtable%20API-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" alt="Airtable API" />
+
 </div>
 
 <br/>
