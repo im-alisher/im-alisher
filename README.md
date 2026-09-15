@@ -4,7 +4,7 @@
 
 # 👋 Hello World!
 
-### I'm **YOUR_USERNAME** — a passionate **Full Stack Developer** crafting digital experiences from frontend pixels to backend power!
+### I'm **Ali Sher** — a passionate **Full Stack Developer** crafting digital experiences from frontend pixels to backend power!
 
 </div>
 
@@ -137,7 +137,7 @@
 
 <samp>
 
-**Made with 💙 by [YOUR_USERNAME](https://github.com/YOUR_USERNAME)** &nbsp;·&nbsp; Thank you for visiting my profile!! 🎉
+**Made with 💙 by [Ali Sher](https://github.com/im-alisher)** &nbsp;·&nbsp; Thank you for visiting my profile!! 🎉
 
 </samp>
 
