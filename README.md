@@ -15,7 +15,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <b>🔥 Contribution Heatmap — Last Year</b>
+  <br/>
+  <img src="https://ghchart.rshah.org/218bff/YOUR_USERNAME" alt="GitHub Contribution Heatmap" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=58A6FF" alt="GitHub Activity Graph" />
 </p>
 
 ---
