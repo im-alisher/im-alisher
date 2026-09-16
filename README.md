@@ -99,14 +99,6 @@
 
 <br/>
 
-### 🗄️ Databases
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-
-<br/>
-
 ### ⚡ Systems & Data
 
 <img src="https://img.shields.io/badge/Data%20Processing-6A5ACD?style=for-the-badge&logo=processor&logoColor=white" alt="Data Processing" />
